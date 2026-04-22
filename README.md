@@ -1,5 +1,5 @@
-Nama: Dian Utami
-Nim: 2410501001
+## Nama: Dian Utami
+## Nim: 2410501001
 
 ## React Native Login & Register App
 
